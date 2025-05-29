@@ -5,7 +5,7 @@ import { constructMetadata } from "@/lib/metadata";
 import { Toaster } from 'sonner'
 import { ModalProvider } from "@/components/modal-provider";
 
-import "./globals.css";
+import "./global.css";
 
 const inter = Inter({ subsets: ["latin"] });
 

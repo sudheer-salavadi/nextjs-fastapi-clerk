@@ -38,3 +38,6 @@ next-env.d.ts
 
 # MacOs local files
 .DS_Store
+
+# clerk configuration (can include secrets)
+/.clerk/
